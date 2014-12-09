@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Players>
+  <Player ID="1">
+    <Name>Name</Name>
+    <Level>Level</Level>
+    <Win>79</Win>
+    <Lose>3</Lose>
+    <Time>99</Time>
+  </Player>
+</Players>
